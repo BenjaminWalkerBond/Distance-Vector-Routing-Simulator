@@ -4,8 +4,8 @@ An application written in C++ that simulates the distance vector routing algorit
 
 compilation:
 
-g++ -std=c++11 main.cpp -o main
+```g++ -std=c++11 main.cpp -o main```
 
 execution:
 
-./main topology_file_name round_count
+```./main topology_file_name round_count```
